@@ -3,4 +3,3 @@ data/articles.json
 data/doc-groups.txt
 data/GoogleNews-vectors-negative300.bin
 misc
-session.py
